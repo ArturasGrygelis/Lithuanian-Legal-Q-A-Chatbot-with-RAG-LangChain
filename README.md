@@ -12,8 +12,8 @@
 ### * Offline Functionality (Potential): Local deployment offers the possibility of offline use, potentially beneficial in situations where internet access is limited or where user doesn't want it's data to be shared.
 
 # RAG LLm Chain explanation:
-assets/447725144_3827899717441033_3841956047829821436_n.png
-* ![Chat Bot RAG chain] (assets/447725144_3827899717441033_3841956047829821436_n.png)
+
+![Chat Bot RAG chain] (assets/447725144_3827899717441033_3841956047829821436_n.png)
 #### 1. Loading Documents and Text Splitting:
 
 The  function load_documents  retrieve the documents used as the knowledge base.
