@@ -49,6 +49,14 @@ RunnableWithMessageHistory wraps the RAG chain to manage conversation history.
 It defines functions to retrieve and update the chat history for each user session.
 This allows the system to track the conversation and use past information to inform future responses.
 
+# Example:
+Example of how RAG Q&A bot  works:
+
+![Chat Bot RAG Input Output](https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/448144203_1132798198026457_5805972757956745459_n.png)
+
+![Chat Bot RAG Conversation example](https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/448079728_446779294635176_33098728519908288_n.png
+)
+
 ## Attribution
 
 This project incorporates the "l3utterfly/phi-2-layla-v1" model from Hugging Face under the MIT License.
