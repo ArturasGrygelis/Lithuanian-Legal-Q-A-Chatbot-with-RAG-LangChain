@@ -65,6 +65,13 @@ Example of how RAG Q&A bot  works:
 ##### * Data Currency: The legal information used by this chatbot system may not reflect the absolute latest redactions of Lithuanian law. Legal documents are subject to change over time, and this chatbot's knowledge base might not always be fully up-to-date.
 ##### * Resource Constraints: This project was developed using freely available resources. For a more comprehensive and reliable legal chatbot system, it's recommended to utilize Large Language Models (LLMs) with a larger context size to handle complex legal inquiries.
 
+##### * By using this chatbot, you acknowledge and agree to the following:
+
+*The information provided by this chatbot is for general informational purposes only and should not be construed as legal advice.
+*You should always consult with a qualified legal professional for any specific legal issues or concerns.
+*The developers of this project cannot be held liable for any actions or decisions taken based on the information provided by the chatbot.
+
+
 ## Attribution
 
 This project incorporates the "l3utterfly/phi-2-layla-v1" model from Hugging Face under the MIT License.
