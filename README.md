@@ -13,7 +13,7 @@
 
 # RAG LLm Chain explanation:
 
-![Chat Bot RAG chain] (https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/447725144_3827899717441033_3841956047829821436_n.png)
+![Chat Bot RAG chain] ([https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/447725144_3827899717441033_3841956047829821436_n.png])
 #### 1. Loading Documents and Text Splitting:
 
 The  function load_documents  retrieve the documents used as the knowledge base.
