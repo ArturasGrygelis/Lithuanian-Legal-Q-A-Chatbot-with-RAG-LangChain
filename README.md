@@ -73,8 +73,9 @@ Example of how RAG Q&A bot  works:
 
 
 ## Attribution
-
+#### Big thanks to huggingface and langchain comunities!
 This project incorporates the "l3utterfly/phi-2-layla-v1" model from Hugging Face under the MIT License.
+
 
 **Copyright [2024], Layla, l3utterfly** 
 
