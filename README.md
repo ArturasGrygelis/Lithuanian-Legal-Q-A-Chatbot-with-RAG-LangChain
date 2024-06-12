@@ -58,7 +58,12 @@ Example of how RAG Q&A bot  works:
 #### Legal Q&A Chatbot Conversation Example:
 ![Chat Bot RAG Input Output](https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/448144203_1132798198026457_5805972757956745459_n.png)
 
+# Disclaimer:
 
+#### Important Information:
+
+##### * Data Currency: The legal information used by this chatbot system may not reflect the absolute latest redactions of Lithuanian law. Legal documents are subject to change over time, and this chatbot's knowledge base might not always be fully up-to-date.
+##### * Resource Constraints: This project was developed using freely available resources. For a more comprehensive and reliable legal chatbot system, it's recommended to utilize Large Language Models (LLMs) with a larger context size to handle complex legal inquiries.
 
 ## Attribution
 
