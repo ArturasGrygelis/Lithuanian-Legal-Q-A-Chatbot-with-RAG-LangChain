@@ -1,6 +1,16 @@
 # Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain
 This project presents a locally deployable Question and Answer (Q&amp;A) chatbot system built using LangChain, Chroma as vector database and the pre-trained LLM (Large Language Model) model "l3utterfly/phi-2-layla-v1".
 
+# Motivation:
+
+### Navigating legal documents can be challenging for individuals unfamiliar with legal terminology. This chatbot offers a user-friendly interface to access information within Lithuanian legal documents, potentially empowering citizens and legal professionals with easier access to relevant legal information.
+
+# Benefits:
+
+### * Improved Access to Legal Information: The chatbot provides a user-friendly way to access information within Lithuanian legal documents, potentially empowering individuals and legal professionals.
+### * Natural Language Interaction: Users can ask questions in natural English language, enhancing accessibility compared to traditional search methods.
+### * Offline Functionality (Potential): Local deployment offers the possibility of offline use, potentially beneficial in situations where internet access is limited or where user doesn't want it's data to be shared.
+
 # RAG LLm Chain explanation:
 #### 1. Loading Documents and Text Splitting:
 
