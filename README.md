@@ -51,11 +51,14 @@ This allows the system to track the conversation and use past information to inf
 
 # Example:
 Example of how RAG Q&A bot  works:
-
-![Chat Bot RAG Input Output](https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/448144203_1132798198026457_5805972757956745459_n.png)
-
+#### Legal Q&A Chatbot input output and how context looks like:
 ![Chat Bot RAG Conversation example](https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/448079728_446779294635176_33098728519908288_n.png
 )
+
+#### Legal Q&A Chatbot Conversation Example:
+![Chat Bot RAG Input Output](https://github.com/ArturasGrygelis/Lithuanian-Legal-Q-A-Chatbot-with-RAG-LangChain/blob/main/assets/448144203_1132798198026457_5805972757956745459_n.png)
+
+
 
 ## Attribution
 
