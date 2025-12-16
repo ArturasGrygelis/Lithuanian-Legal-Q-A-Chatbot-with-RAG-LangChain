@@ -56,7 +56,7 @@ executing
 fastapi==0.111.0
 fastapi-cli==0.0.4
 fastjsonschema
-filelock==3.14.0
+filelock==3.20.1
 flatbuffers==24.3.25
 frozenlist==1.4.1
 fsspec==2024.6.0
